@@ -1,2 +1,2 @@
 # Tower-of-Hanoi
-A simulation for the game tower of hanoi
+A console simulation for the game tower of hanoi
