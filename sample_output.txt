@@ -1,0 +1,51 @@
+-------------------
+Start of the tower
+tower 1 : [3, 2, 1]
+tower 2 : []
+tower 3 : []
+
+
+-------------------
+tower 1 : [3, 2]
+tower 2 : [1]
+tower 3 : []
+
+
+tower 1 : [3]
+tower 2 : [1]
+tower 3 : [2]
+
+
+tower 1 : [3]
+tower 2 : []
+tower 3 : [2, 1]
+
+
+tower 1 : []
+tower 2 : [3]
+tower 3 : [2, 1]
+
+
+tower 1 : [1]
+tower 2 : [3]
+tower 3 : [2]
+
+
+tower 1 : [1]
+tower 2 : [3, 2]
+tower 3 : []
+
+
+tower 1 : []
+tower 2 : [3, 2, 1]
+tower 3 : []
+
+
+-------------------
+End of the tower
+tower 1 : []
+tower 2 : [3, 2, 1]
+tower 3 : []
+
+
+-------------------
